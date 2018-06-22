@@ -1,7 +1,21 @@
 # OpenCV Car detection from video stream
 
+## How to run the code
+```bash
+git clone git@github.com:qwertmax/opencv-car-detection-video.git
+cd opencv-car-detection-video
+python main.py
+```
 
-example how is work 
+## install packages
+
+```bash
+pip install -r requirements.txt
+```
+
+
+## example how is work
+
 [![OpenCV Car detection from video stream](http://img.youtube.com/vi/RCFkCmPqJrk/0.jpg)](https://youtu.be/RCFkCmPqJrk)
 
 ## python code
