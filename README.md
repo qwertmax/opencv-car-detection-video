@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 
-## example how is work
+## Example how it works
 
 [![OpenCV Car detection from video stream](http://img.youtube.com/vi/RCFkCmPqJrk/0.jpg)](https://youtu.be/RCFkCmPqJrk)
 
